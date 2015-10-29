@@ -1,0 +1,172 @@
+[
+  {
+    "id": "00",
+    "weather": "晴",
+    "en": "Sunny"
+  },
+  {
+    "id": "01",
+    "weather": "多云",
+    "en": "Cloudy"
+  },
+  {
+    "id": "02",
+    "weather": "阴",
+    "en": "Overcast"
+  },
+  {
+    "id": "03",
+    "weather": "阵雨",
+    "en": "Shower"
+  },
+  {
+    "id": "04",
+    "weather": "雷阵雨",
+    "en": "Thundershower"
+  },
+  {
+    "id": "05",
+    "weather": "雷阵雨伴有冰雹",
+    "en": "Thundershower with hail"
+  },
+  {
+    "id": "06",
+    "weather": "雨夹雪",
+    "en": "Sleet"
+  },
+  {
+    "id": "07",
+    "weather": "小雨",
+    "en": "Light rain"
+  },
+  {
+    "id": "08",
+    "weather": "中雨",
+    "en": "Moderate rain"
+  },
+  {
+    "id": "09",
+    "weather": "大雨",
+    "en": "Heavy rain"
+  },
+  {
+    "id": "10",
+    "weather": "暴雨",
+    "en": "Storm"
+  },
+  {
+    "id": "11",
+    "weather": "大暴雨",
+    "en": "Heavy storm"
+  },
+  {
+    "id": "12",
+    "weather": "特大暴雨",
+    "en": "Severe storm"
+  },
+  {
+    "id": "13",
+    "weather": "阵雪",
+    "en": "Snow flurry"
+  },
+  {
+    "id": "14",
+    "weather": "小雪",
+    "en": "Light snow"
+  },
+  {
+    "id": "15",
+    "weather": "中雪",
+    "en": "Moderate snow"
+  },
+  {
+    "id": "16",
+    "weather": "大雪",
+    "en": "Heavy snow"
+  },
+  {
+    "id": "17",
+    "weather": "暴雪",
+    "en": "Snowstorm"
+  },
+  {
+    "id": "18",
+    "weather": "雾",
+    "en": "Foggy"
+  },
+  {
+    "id": "19",
+    "weather": "冻雨",
+    "en": "Ice rain"
+  },
+  {
+    "id": "20",
+    "weather": "沙尘暴",
+    "en": "Duststorm"
+  },
+  {
+    "id": "21",
+    "weather": "小到中雨",
+    "en": "Light to moderate rain"
+  },
+  {
+    "id": "22",
+    "weather": "中到大雨",
+    "en": "Moderate to heave rain"
+  },
+  {
+    "id": "23",
+    "weather": "大到暴雨",
+    "en": "Heay rain to storm"
+  },
+  {
+    "id": "24",
+    "weather": "暴雨到大暴雨",
+    "en": "Storm to heave storm"
+  },
+  {
+    "id": "25",
+    "weather": "大暴雨到特大暴雨",
+    "en": "Heavy to server storm"
+  },
+  {
+    "id": "26",
+    "weather": "小到中雪",
+    "en": "Light to moderate snow"
+  },
+  {
+    "id": "27",
+    "weather": "中到大雪",
+    "en": "Moderate snow to heavy snow"
+  },
+  {
+    "id": "28",
+    "weather": "大到暴雪",
+    "en": "Heave snow to snowstrom"
+  },
+  {
+    "id": "29",
+    "weather": "浮尘",
+    "en": "Dust"
+  },
+  {
+    "id": "30",
+    "weather": "扬沙",
+    "en": "Sand"
+  },
+  {
+    "id": "31",
+    "weather": "强沙尘暴",
+    "en": "Sandstrom"
+  },
+  {
+    "id": "53",
+    "weather": "霾",
+    "en": "Haze"
+  },
+  {
+    "id": "99",
+    "weather": "无",
+    "en": "Unknow"
+  }
+]

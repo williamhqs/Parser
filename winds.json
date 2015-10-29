@@ -1,0 +1,110 @@
+[
+  {
+    "wind_direction": [
+      {
+        "id": "0",
+        "wind": "无持续风向",
+        "en": "No wind"
+      },
+      {
+        "id": "1",
+        "wind": "东北风",
+        "en": "Northeast"
+      },
+      {
+        "id": "2",
+        "wind": "东风",
+        "en": "East"
+      },
+      {
+        "id": "3",
+        "wind": "东南风",
+        "en": "Southeast"
+      },
+      {
+        "id": "4",
+        "wind": "南风",
+        "en": "South"
+      },
+      {
+        "id": "5",
+        "wind": "西南风",
+        "en": "Southwest"
+      },
+      {
+        "id": "6",
+        "wind": "西风",
+        "en": "West"
+      },
+      {
+        "id": "7",
+        "wind": "西北风",
+        "en": "Northwest"
+      },
+      {
+        "id": "8",
+        "wind": "北风",
+        "en": "North"
+      },
+      {
+        "id": "9",
+        "wind": "旋转风",
+        "en": "Whirl wind"
+      }
+    ]
+  },
+  {
+    "wind_powe_list": [
+      {
+        "id": "0",
+        "wind_prower": "微风",
+        "en": "<10m/h"
+      },
+      {
+        "id": "1",
+        "wind_prower": "3-4级",
+        "en": "10~17m/h"
+      },
+      {
+        "id": "2",
+        "wind_prower": "4-5级",
+        "en": "17~25m/h"
+      },
+      {
+        "id": "3",
+        "wind_prower": "5-6级",
+        "en": "25~34m/h"
+      },
+      {
+        "id": "4",
+        "wind_prower": "6-7级",
+        "en": "34~43m/h"
+      },
+      {
+        "id": "5",
+        "wind_prower": "7-8级",
+        "en": "43~54m/h"
+      },
+      {
+        "id": "6",
+        "wind_prower": "8-9级",
+        "en": "54~65m/h"
+      },
+      {
+        "id": "7",
+        "wind_prower": "9-10级",
+        "en": "65~77m/h"
+      },
+      {
+        "id": "8",
+        "wind_prower": "10-11级",
+        "en": "77~89m/h"
+      },
+      {
+        "id": "9",
+        "wind_prower": "11-12级",
+        "en": "89~102m/h"
+      }
+    ]
+  }
+]
